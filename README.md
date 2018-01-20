@@ -1,6 +1,7 @@
 
 # aws-101
 An intro to AWS delivered on Jan 20th, 2018 to NYU CUSP students, alumni and Colorado friends.
+Feel free to create issues to discuss cloud topics / interview questions etc.
 
 # Resources
 - [Best **overview** of all AWS services](https://d0.awsstatic.com/whitepapers/aws-overview.pdf)
