@@ -7,6 +7,7 @@ Feel free to create issues to discuss cloud topics / interview questions etc.
 - [Best **overview** of all AWS services](https://d0.awsstatic.com/whitepapers/aws-overview.pdf)
 - [AWS Quick Labs](https://amazon.qwiklabs.com/catalog?locale=en)
 - [History of Cloud Computing](https://www.visualistan.com/2015/09/a-brief-history-of-cloud-infographic.html)
+- [EC2 Instance Comparison](https://www.ec2instances.info/)
 
 # Getting Started with Cloud / AWS
 ## [Brief History of Cloud](https://www.visualistan.com/2015/09/a-brief-history-of-cloud-infographic.html)
